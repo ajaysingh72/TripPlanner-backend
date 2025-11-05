@@ -42,10 +42,12 @@ This is the backend service for the TripPlanner application. It provides RESTful
 # Build the project:
 ### For Java Spring Boot:
 -mvn clean install
+
 -mvn spring-boot:run
 
 ### For Node.js:
 -npm install
+
 -npm start
 
 # 4. The backend will start running on http://localhost:8080 (or your configured port).
