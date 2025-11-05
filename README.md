@@ -50,7 +50,7 @@ This is the backend service for the TripPlanner application. It provides RESTful
 
 -npm start
 
-# 4. The backend will start running on http://localhost:8080 (or your configured port).
+# 4. The backend will start running on http://localhost:8081 (or your configured port).
 
 ### API Documentation
 
